@@ -1,0 +1,88 @@
+#+FILETAGS: :english:studying
+#+TITLE: 动名词
+* 动名词基础形式： verb + ing
+** 语态
+#+CAPTION: 动名词时态及语态
+| 形式   | 主动        | 被动             |
+|--------+-------------+------------------|
+| 一般式 | doing       | being done       |
+| 完成式 | having done | having been done |
+** 时态
+  1. 一般式\\
+     当动名词的动作没有明确表示与谓语动词是同时发生还是在谓语动词前发生\\
+     e.g  I am only intersted in sitting in a boat and doing nothing at all.\\  
+          I am proud of being a member of the school team.
+  2. 完成式\\
+     当动名词的动作发生在谓语动词前，主要用于宾语\\
+     固定搭配 be sorry for having done sth.\\
+     e.g  I'm sorry for having broken the window. 打破窗户在我道歉之前
+  3. 对于发生在谓语动词前却要使用一般式的特殊情况\\
+     e.g On hearing the bad news, she couldn't help crying.\\
+         I shall never forget seeing the Great Wall for the first time.\\
++ 语态
+  1. *主动表被动*\\
+     e.g The house requires/needs/wants repairing. 这个房子需要被修理。 在require/need/want 这类表需要的词后面主动表示被动。\\
+         The book is well worth reading. 这本书很值得 *被读*\\
+	 Is that museum worth visiting? 那个博物馆值得被参观吗?\\
+----------
+* 动名词的用法
+** 主语： 表示抽象的、习惯性的动作或泛指某种动作;不定式做主语一般表示具体某次动作或者即将发生的动作
+   e.g Doing exercises does us a lot of good.
+   + 注意
+     1. 动名词做主语时谓语动词常用单数
+     2. 表示不同概念的动名词通过and连用时谓语动词用复数形式
+     3. 动名词做主语时常用“it”做形式主语或"there is no"结构
+	There is no + doing 根本不可能\\
+	There is no point/not much point (in) doing 做xxx没有意义
+   + 错题
+     + _Losing_ in the forest can be a terrifying experience. *Being lost*
+       
+** 表语： 仅限表示工作、任务等抽象名词，表示主语的内涵（类比同位语从句）
+   e.g Her job is teaching.\\
+       Talking to him is talking to a wall.
+** 宾语
++ 
+  1. *表示一般的、抽象的、经常性的行为*\\
+     e.g I couldn't risk missing that train.\\
+  2. 下列动词后接动词作宾语时必须用动名词形式\\ 
+     1. admit advise allow anticipate期望 appreciate avoid ban consider delay confess deny detest厌恶 dislike encourage enjoy ensure escape excuse原谅 face fancy想象 finish forbid forgive\\
+	imagine involve涉及 include keep mention mind miss omit省略 pardon宽恕 permit postphone推迟 practise prevent quit recall记起 report resist抵抗 risk recommend resent愤恨 save suggest tolerate忍受 
+     2. feel like
+     3. can't help doing 忍不住 can't help to do 不能帮助做某事
+     4. can't resist = can't help doing 忍不住
+     5. give up
+     6. put off = postphone推迟
+  3. 下列动词后接动词作宾语时用动名词形式，但如果后面有名词或代词作为宾语，用不动式做宾语补足语\\
+    allow,advise,encourage,forbid(forbade,forbi *dd* en),permit,recommend\\
+    e.g We don't allow smoking here./We don't allow customers to smoke here.\\
+    曾错点: image doing sth/image sb. doing sth.
+  4. 动词need,requires,want,demand 作“需要”这类表需要的词以及deserve作“应得”的意思后面主动表示被动，含义与不定式相同\\
+    e.g The window needs cleaning./The window needs to be cleaned.\\
+        The child deserves praising./The child deserves to be praised.
+  5. excuse,forgive,pardon 两种形式
+    e.g Excuse forgive my opening your letter by mistake.\\
+        Excuse forgive me for opening your letter by mistake.
+  6. 某些动词短语中to是介词，后跟动名词，不用不定式\\
+    be accustomed to; be devoted to ; be familiar to ; be opposed to 反对; be related to;\\
+    be subjected to 遭受到; admit to ; amount to; come to ; devote oneself to; get down to;\\
+    give one's mind to 专心于; in addition to; look up to; look forward to ; object to ; respond to ; stand up to ; say yes/no to ; \\
+    turn to ; be committed to; be equal to ; be open to ; be reduced to; be sentenced to; \\
+    *be used to doing 习惯于(used to do 过去常常做 be used to do 被用来做 )* ;add to ; apply oneself to;\\
+    confess (to) ; find one's way to ; give way to ; give rise to; keep to; lead to; next to ; pay attention to ; stick to ; see to ; trust to ; \\
+    make a contribution to
+  7. 某些词后不定式与动名词含义有差别\\
+    e.g forget/remember/regret to do 去做\\
+        forget/remember/regret doing 做过
+  8. 许多介词与不定式可以构成状语，表示时间、原因、方式等\\
+    e.g She was praised *for doing her homework well.*\\
+        *Before sending a letter*, you must put a stamp on the envelope.
+  9. 作形容词worth,busy这种具有状语性质的宾语后跟动名词\\
+    e.g He was worth teaching.\\
+        He was busy studying.
+  10. 错题
+      1. Our purpose in life is _serving_ the people. *to serve*\\
+      2. Another bridge is _being built_ across the river next year. *to be built*\\
+      3. I have just moved into a new apartment and I have been trying _getting_ my new rooms in order. *to get*\\
+      4. I'm terribly sorry for _giving_ you so much trouble. *having given* *参见2.2*
+** 定语： 常位于被修饰名词前，充当前置修饰语
+e.g a writting desk ; a smoking room; a swimming pool
