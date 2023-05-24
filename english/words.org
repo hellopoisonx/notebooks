@@ -1,16 +1,30 @@
-@document.meta
-title: first_week
-author: hellopoisonx
-categories: notes
-@end
-.toc
+#+title: words
+#+author: hpxx
+#+filetags: notebooks
+#+begin_src cpp
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+    cout << "Hello,world!" << endl;
+    return 0;
+}
+#+end_src
+#+begin_src go
+package main
+import (
+    "fmt"
+)
 
+func main() {
+    fmt.Println("Hello,world")
+}
+#+end_src
 * odd:
   - adj. /奇怪的/;偶尔发生的;/奇数的/;可用的;少量的;不重要的 e.g: *The odd thing is, I had never filed
   a claim.*
   - adv. （用于数字后）大约，左右
   - n. 奇特的事物 *unfavorable odds 没有胜算*
-* file 
+** file 
   - n. 文件夹；文档；文件；议题；职责
   - v. 归档；/提起，提出/；发送（消息或报道）e.g *I had to file a form requesting that the IRS trace my
   refund to see who had received it* 
