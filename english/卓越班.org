@@ -34,7 +34,7 @@
 * be content with 对。。满意
 * be popular with 受欢迎
 * refram ｖ. 重构
-* embrace v. 拥抱
+* embrace v. 拥抱 ~= fall for
 * in this sense = in this regard 这样说
 * in the long term 长远来看
 * fixation on 专注于
@@ -52,4 +52,44 @@
 ** separate A *from* B 把Ａ和Ｂ分开
 * electronic devices 电子设备
 * acknowledge 告知，收到；感谢；承认
-first--------
+--------
+* causal adj. 有因果关系的
+* malfunction n. 故障
+* conventional n. 传统
+* it occurs to me that = it strikes me that 某人突然想到某事
+* mild adj. 温和的
+* straight-laced 古板的
+* further afield 去远方
+* neutral adj. 中立的
+* loyal adj. 忠诚的
+* in order of 以。。的顺序 != in order to 为了
+* resume v. 重新开始
+* resist v. 抵抗
+** can't resist the temptation(诱惑) of .. 无法抵抗。。的诱惑
+*** resistance n. 抵抗
+**** waterproof = water-resistant 防水的
+* punishing adj. 令人痛苦的;艰难的
+* allowance n.补贴
+* cognitive adj. 认知的
+* defame v. 诽谤；诋毁
+  - de-fame
+* compact adj. 小型的
+* it 句型
+** It has been five years since he went abroad. 他出国已经有五年了
+*** It has been ... since did
+** It will be five years before we meet again.
+***　It was/will..before..did/do
+** It was not long before the old man recovered from the disease. 不久老人从疾病中恢复
+** It is my turn to */be on duty/*. 今天轮到我值日
+    - on duty 值日；上班
+    - off duty 下班
+** It's every citizen's duty to protect the environment.
+   - citizens 
+   - citizen's
+* require sb to do. 
+** require sb to strictly obey 严格遵守
+* The Boss who were involved in the fraud shift the responsibility onto/to his employees.
+    1) be involve in = be engaged in 参与；卷入
+    2) shift the responsibility onto/to 推卸责任给某人
+    3) fraud = cheating 欺骗
+* keep it from spreading 阻止蔓延

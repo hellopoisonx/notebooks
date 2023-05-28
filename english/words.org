@@ -163,7 +163,7 @@
 * given v. 考虑到
 * obstacle n. 障碍
 * mandatory adj. 强制的
-* punishing adj. 令人痛苦的
+* punishing adj. 令人痛苦的;艰难的
 * term 
   - in the long term
   - in ... term 从。。角度
