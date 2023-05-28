@@ -76,9 +76,9 @@
 * compact adj. 小型的
 * it 句型
 ** It has been five years since he went abroad. 他出国已经有五年了
-*** It has been ... since did
+    - It has been ... since did
 ** It will be five years before we meet again.
-***　It was/will..before..did/do
+    -　It was/will..before..did/do
 ** It was not long before the old man recovered from the disease. 不久老人从疾病中恢复
 ** It is my turn to *be on duty*. 今天轮到我值日
     - on duty 值日；上班
