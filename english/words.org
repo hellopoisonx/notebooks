@@ -61,8 +61,9 @@
 * elaborate
   adj. 复杂的，详尽的；精心制作的
   - v. 详细说明，详尽阐述；精心制作
-* colonize v. 在。。开拓殖民地；将。。。占为己用；移植于
+* colonize v. 在。。开拓殖民地；将。。。占为己用；移植于;居住
   - e.g At a time when politics is more furious and fragmented than ever, when technology is *colonizing* our everyday existence...
+  - e.g colonize the deserts 在沙漠大批居住
 * establish v. 建立；设立；证实；发现
 ** establish oneself as/in 在。。方面建立自己的地位
 * popularity n. 流行度；流行
@@ -286,3 +287,77 @@
 * inform sb. of sth.
 * add variety to 增加趣味性/多样性
 * illustrate v. (文字、图片等)表明;说明
+  # 2023-11-07
+* tricky adj. 棘手的；狡猾的
+* deal with vs. do with 
+** how to deal with
+** what to do with
+* entitle
+** 常用被动
+** 是。。享有权利，符合资格 entitle sb to sth./do
+** 给。。命名(常用一般现在时) e.g a poem is entitled 'Salt' by xxxx.
+* credit
+** n. 信用，存款。。
+** v.
+   * 存钱
+   * 认为是。。的功劳；把。。归于(usually passive)
+        * ~ sb.
+        * ~ A with B
+        * ~ B to A
+    * 认为。。有
+        * ~ A with B
+    * 相信
+* practice 奉行（风俗）
+* it may not be much of a surprise 这算不上令人惊讶
+* uniquely American thing 美国独有的
+* march v. 齐步走；行进；行军
+* tune in 收听；收看
+* parade 列队前进；阅兵；游行
+* viral (<-virus) 
+** go viral 走红；迅速传播开来
+* steer 引导,指导
+#+title 2023-11-20
+* at a tipping point 临界点
+* habitable adj. 可居住的
+** n. habitat 居住地
+* in a matter of decades
+* outpace v. 超过
+  - e.g outpace our capability. 超过我们的能力
+* alien adj. 新的；真的
+* the Martian /view/ 火星的面貌
+* estate n.
+  - 庄园，大片土地
+  - 住宅区；工业区；工厂区
+  - 个人财产；遗产
+  - 家园
+* be fascinated in 沉迷于
+* invite v. 招致，带来
+  - e.g Each one of these new worlds *invites a comparision* between the newly discovered planet. 招致比较
+* a dark shadow 坏影响
+* implication n.
+  - 可能的结果
+  - 暗示
+* hostile adj. 敌对的；恶劣的
+  - e.g bend the hostile environment of Mars. 扭转火星恶劣的环境
+* bend v. 扭转，改变
+  - e.g bend the hostile environment of Mars. 扭转火星恶劣的环境
+* sink v. 衰退
+* alter v. 改变
+  - e.g alter their *course*. 改变他们的进程(路线)
+* specialty n. 专业，专长
+* favore v. 偏向于；偏爱
+* distinguish A from B 区分A和B 
+  - e.g distinguish right from wrong 明辨是非
+* tunnel vision 浅陋无知，视野狭窄
+* temper v. 缓和
+* this comes as a shock 令人震惊的是
+* come to terms with 向。。让步
+* test water 试水,尝试
+* noble adj. 高尚的
+* idealism n. 理想主义
+* see & witness v. 见证(拟人用法)
+  - e.g Recent years have witnessed a growing social mobility. 近年来人们的社会流动性越来越大。
+  - e.g The retail trade is witnessing a sharp fall in sales. 零售业的销售额在急剧下降。
+* anything but .. 绝不是...
+* summary 下定义技巧: 同位语
+  - e.g Empathy, an capability to share pains with others, is important.
