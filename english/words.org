@@ -32,7 +32,7 @@
 * keep up 跟上
 * dismiss = lay off 解雇
 * make sense 合理
-* be concerned with 与。。有关
+* be concerned /with/ 与。。有关
 * be obsessed with 痴迷于。。
 * be content with 对。。满意
 * be popular with 受欢迎
@@ -297,7 +297,6 @@
   - n. 纪律;管教;自制力；自律
   - v. 管教
 * bear ..v.孕育
-* be concerned *with*
 * a strong arm for sth./doing sth. 用强硬的手段做。。
 * advanced study 高等教育
 * notion n. 理念
@@ -331,7 +330,6 @@
 * sponsor n. 赞助商
 * venture out 外出
 * excursion n. 短途旅行
-* regulate v. 管理
 * life expectancy 寿命
 * prospect n. 前景
 * ethical issues 伦理道德
@@ -461,3 +459,37 @@
 * anything but .. 绝不是...
 * summary 下定义技巧: 同位语
   - e.g Empathy, an capability to share pains with others, is important.
+* review n. (研究)报告
+  - carry out the review 做评审/做汇报
+* ground-breaking adj. 突破性的
+* nature n. 本质
+* be desperate to do 迫不及待的去做
+* appear to do 似乎
+* regulate v. 管理;控制
+* approve of 赞成
+* act on 作用于
+  - e.g act on the systems concerned with feelings. 作用于与情感有关的系统
+* uniform adj. 一样的
+* inch v. 缓慢前进
+* yield 
+  - n. 产量
+  - v. 产生
+* frugal adj. 节俭的；划算的
+* economical adj. 节俭的；经济的，实惠的
+* light 
+  - 前值定语 lighted
+  - 后置定语 lit
+* pessimistic adj. 悲观的;悲观主义的
+** optimistic adj. 乐观的；乐观主义的
+* interpret vt. 解释；解读;口译
+* myth n. 谜团；误区
+* downgrade v. 降职
+* from my perspective 以我的观点来看
+* cover up 掩饰
+* get through 完成
+** -through 通常表完成
+* grant v. 拨款;允许,批准
+* underreported 没有报告的
+** under- 没有...
+* perceive v. 感知
+* crunchy adj. 脆的
