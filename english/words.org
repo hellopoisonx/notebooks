@@ -353,6 +353,7 @@
 * press sessions 新闻发布会
 ** press n. 新闻业
 ** session n. 会议
+** press release 新闻稿
 * interior n.室内 adj. 室内的
 ** interior designer 室内设计师
 * conrrespondent n. 记者；通讯员
@@ -414,7 +415,7 @@
 * viral (<-virus) 
 ** go viral 走红；迅速传播开来
 * steer 引导,指导
-#+title 2023-11-20
+#2023-11-20
 * at a tipping point 临界点
 * habitable adj. 可居住的
 ** n. habitat 居住地
@@ -493,3 +494,29 @@
 ** under- 没有...
 * perceive v. 感知
 * crunchy adj. 脆的
+#2023-11-22
+* lost one's footing 失足
+** footing n. 立足，站稳；立足点，基础；地位，人际关系
+   - e.g a sound/firm/secure footing 一个牢固的基础
+   - e.g on a equal footing 平等的地位
+* sound adj. 合理的；明智的；完全的；健康的
+  - a sound mind in a sound body 身心健康
+* fit n. 一阵
+  - a fit of
+  - e.g in a fit of madness 一时糊涂
+  - e.g in a fit of temper 一怒之下
+* overalls n. 工装裤
+  - e.g a pair of regulation overalls 一套规定的工作服
+* the latest press release 最新的新闻稿
+* tear off 迅速脱掉
+  - tear-tore-torn
+* prolong v. 拖延；延长
+** prolonged adj. 持续的；长期的
+* dominate v. 支配；控制
+* vigorously adv. 有活力地
+** vigorous adj. 有活力的
+* prepare sb to do 使某人做某事
+* disposable adj. 一次性的；可支配的
+  - v. dispose of 丢掉，清除
+* ethical adj. 道德的；伦理的
+* it all depends 看情况而定(用一般现在时)
