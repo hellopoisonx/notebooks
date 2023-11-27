@@ -158,9 +158,6 @@
 * elaborate
   adj. 复杂的，详尽的；精心制作的
   - v. 详细说明，详尽阐述；精心制作
-* colonize v. 在。。开拓殖民地；将。。。占为己用；移植于;居住
-  - e.g At a time when politics is more furious and fragmented than ever, when technology is *colonizing* our everyday existence...
-  - e.g colonize the deserts 在沙漠大批居住
 * establish v. 建立；设立；证实；发现
 ** establish oneself as/in 在。。方面建立自己的地位
 * popularity n. 流行度；流行
@@ -269,6 +266,7 @@
   - in ... term 从。。角度
   - a coined term 一个杜撰的名词
   - technical term  专业术语
+  - term = tie n. 关系
 ** terms
    - 条款 under the terms of the contract
    - come to terms with..=compromise 与。。妥协
@@ -432,6 +430,7 @@
 * be fascinated in 沉迷于
 * invite v. 招致，带来
   - e.g Each one of these new worlds *invites a comparision* between the newly discovered planet. 招致比较
+** inviting adj. 吸引人的
 * a dark shadow 坏影响
 * implication n.
   - 可能的结果
@@ -440,6 +439,7 @@
   - e.g bend the hostile environment of Mars. 扭转火星恶劣的环境
 * bend v. 扭转，改变
   - e.g bend the hostile environment of Mars. 扭转火星恶劣的环境
+  - n. 拐弯；弯道
 * sink v. 衰退
 * alter v. 改变
   - e.g alter their *course*. 改变他们的进程(路线)
@@ -520,3 +520,11 @@
   - v. dispose of 丢掉，清除
 * ethical adj. 道德的；伦理的
 * it all depends 看情况而定(用一般现在时)
+  ----
+# 2023-11-27
+* the missing man 失踪的人(/missing/)
+* colonize v. 在。。开拓殖民地；将。。。占为己用；移植于;居住
+  - e.g At a time when politics is more furious and fragmented than ever, when technology is *colonizing* our everyday existence...
+  - e.g colonize the deserts 在沙漠大批居住
+** populate = colonize v. 居住
+* condition n. 疾病
