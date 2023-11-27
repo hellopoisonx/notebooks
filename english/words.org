@@ -528,3 +528,5 @@
   - e.g colonize the deserts 在沙漠大批居住
 ** populate = colonize v. 居住
 * condition n. 疾病
+* signature n. 特色菜；招牌
+  - signboard n. (广告牌)招牌
