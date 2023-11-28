@@ -530,3 +530,9 @@
 * condition n. 疾病
 * signature n. 特色菜；招牌
   - signboard n. (广告牌)招牌
+# 2023-11-28
+* go vi.
+  - where we want to go
+* finalize vt. 最后定下来;定案
+* panel n. 仪表盘；金属板；(衣服)装饰片;/专家咨询组/
+  - panel of judges 评审团
