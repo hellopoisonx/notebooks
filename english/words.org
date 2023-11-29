@@ -515,7 +515,6 @@
 * dominate v. 支配；控制
 * vigorously adv. 有活力地
 ** vigorous adj. 有活力的
-* prepare sb to do 使某人做某事
 * disposable adj. 一次性的；可支配的
   - v. dispose of 丢掉，清除
 * ethical adj. 道德的；伦理的
@@ -531,8 +530,15 @@
 * signature n. 特色菜；招牌
   - signboard n. (广告牌)招牌
 # 2023-11-28
-* go vi.
-  - where we want to go
+* go /vi./
+  - *where* we want to go
 * finalize vt. 最后定下来;定案
 * panel n. 仪表盘；金属板；(衣服)装饰片;/专家咨询组/
   - panel of judges 评审团
+#2023-11-29
+* ill-equipped adj. 能力欠缺的
+* kind of /adv./ 有点
+* prepare sb to do 使某人做某事
+  - sb. be prepared for sth. 某人准备好
+* make sure + 一般现在时(不用将来时，主祈从现)
+  - e.g it means a bigger role for schools in making sure (that) children are prepared for...
