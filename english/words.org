@@ -281,7 +281,6 @@
 * underestimate v. 低估
 * consequence n. 结果，后果
 * route n. 路线；渠道
-* tough adj. 艰难的；坚强的
 * innovative adj. 革新的；创新的
 * vacant adj. 空闲的
 * for instance 举例
@@ -568,3 +567,6 @@
 * can vs do
   - can 未发生
   - do 已发生
+#2023-12-05
+* tough adj. 艰难的；坚强的; 无情的
+* hold on tightly to sth./sb. 紧紧抓住..
