@@ -52,3 +52,4 @@
 1. scale up 扩大
 ## golden
 1. ***Time and tide wait for no man*** 时不我待
+2. ***To error is human, to forgive divine*** 凡人皆有过，唯有神可恕
