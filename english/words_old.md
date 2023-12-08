@@ -1,6 +1,3 @@
-#+title: words
-#+author: hpxx
-#+filetags: notebooks
 * I have a lot of clothes to 
   - wash 自己洗
   - be wash 别人洗

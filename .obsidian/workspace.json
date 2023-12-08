@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "7aa64c7306e6d8e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1198008ccf03bbb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b78adebe4e5fd2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english/动名词.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7462ba08f4a15ccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9003c8a61f681279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b7640095f8a327",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebfa484f5f9e6adb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "错题",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d55fbff5b581c7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0db2f6dbfa581023",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff03520f8499df79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abd6571649da839f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "english/动名词.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59844debacc84e14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "english/动名词.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc365b8f2fc62d8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96d244815383a43a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "english/动名词.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b78adebe4e5fd2d7",
+  "lastOpenFiles": [
+    "english/非谓语-不定式.md",
+    "english/动名词.md",
+    "english/grammar.md",
+    "toc.md",
+    "未命名.md",
+    "english/words_old.md",
+    "english/words.md",
+    "physical/圆周，向心力/圆周，向心力常见模型.pdf"
+  ]
+}
