@@ -498,9 +498,9 @@
 * sound adj. 合理的；明智的；完全的；健康的
   - a sound mind in a sound body 身心健康
 * fit n. 一阵
-  - a fit of
+  - a fit of 
   - e.g in a fit of madness 一时糊涂
-  - e.g in a fit of temper 一怒之下
+  - e.g in a fit of temper = on the spur of the moment 一怒之下
 * overalls n. 工装裤
   - e.g a pair of regulation overalls 一套规定的工作服
 * the latest press release 最新的新闻稿

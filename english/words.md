@@ -30,26 +30,39 @@
 17. snap n. 照片
 18. *on* a misson 出任务
     - on a business 出差
-1. level 
+19. level 
     - on level 楼层
     - at level 水平
-1. gesture 姿态
+20. gesture 姿态
     - a giant gesture 高调
     - a low gesture 低调
-1. grief n. 悲伤
-1. tailor v. 定做
-1. deliver a mission 完成任务
-1. 平局
+21. grief n. 悲伤
+22. tailor v. 定做
+23. deliver a mission 完成任务
+24. 平局
     - win a tie
     - end in a tie
-1. cushion n. 缓冲；过渡
-1. 生物 -> 动词
+25. cushion n. 缓冲；过渡
+26. 生物 -> 动词
     - dog 狗 -> 跟随
     - mushroom 蘑菇 -> 涌现,快速增长/生长
     - cat 猫 -> cater 迎合
-1. devastate v. 破坏
+27. devastate v. 破坏
     - devastating adj. 破坏性的
-1. scale up 扩大
+28. scale up 扩大
+29. substantial adj. 大量的
+30. sufficient adj. 充足的
+31. ritual n. 仪式；礼节
+32. uncover the mysteries 揭开谜团
+33. longstanding adj. 持久的
+34. insight n. 洞察力
+35. drag .. out 拖延
+36. with due regard to 适当关注
+	- with regard to 与。。有关
+37. be characterized by 以。。为特征
+38. individuality n. 个性
+39. enroll in 报名参加
+40. equivalence of 与。。相等
 ## golden
 1. ***Time and tide wait for no man*** 时不我待
 2. ***To error is human, to forgive divine*** 凡人皆有过，唯有神可恕

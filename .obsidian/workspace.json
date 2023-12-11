@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/动名词.md",
+                "file": "english/words.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "错题",
+                "query": "insight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/动名词.md",
+                "file": "english/words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english/动名词.md",
+                "file": "english/words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english/动名词.md"
+                "file": "english/words.md"
               }
             }
           }
@@ -147,15 +147,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b78adebe4e5fd2d7",
+  "active": "ebfa484f5f9e6adb",
   "lastOpenFiles": [
     "english/非谓语-不定式.md",
     "english/动名词.md",
+    "english/words_old.md",
+    "english/words.md",
     "english/grammar.md",
     "toc.md",
     "未命名.md",
-    "english/words_old.md",
-    "english/words.md",
     "physical/圆周，向心力/圆周，向心力常见模型.pdf"
   ]
 }
